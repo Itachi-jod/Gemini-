@@ -1,6 +1,6 @@
 # GeminiBot - Your Crypto Assistant
 
-GeminiBot is a modern cryptocurrency chatbot built to provide users with real-time cryptocurrency data, including price updates and market trends. The bot uses the Gemini API to fetch market data, and it features beautiful animations, a typing indicator, and sound effects for a more interactive user experience.
+GeminiBot is a modern cryptocurrency chatbot built to provide users with real-time cryptocurrency data, including price updates and market trends. The bot features beautiful animations, a typing indicator, and sound effects for a more interactive user experience.
 
 ## Features
 
@@ -26,5 +26,5 @@ GeminiBot is a modern cryptocurrency chatbot built to provide users with real-ti
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Itachi-jod
+git clone https://github.com/Itachiffx/GeminiBot.git
 cd GeminiBot
