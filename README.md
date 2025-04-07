@@ -26,5 +26,5 @@ GeminiBot is a modern cryptocurrency chatbot built to provide users with real-ti
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Itachiffx/GeminiBot.git
+git clone https://github.com/Itachi-jod
 cd GeminiBot
